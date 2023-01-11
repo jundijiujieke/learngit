@@ -4,3 +4,4 @@ git has a mutable index called stage
 git tracks changes of files
 tan baby is cute
 creating a nem branch is quick
+i love ttj
